@@ -13,7 +13,7 @@ You **do NOT need to enter your password** — it uses your **Chrome browser ses
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Install dependencies:
 
